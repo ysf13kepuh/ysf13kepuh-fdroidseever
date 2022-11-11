@@ -1,0 +1,111 @@
+ {
+  "events" : [ {
+    "action" : "isPrivilegedInstallerEnabled",
+    "category" : "device",
+    "name" : "true",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.VERSION.SDK_INT",
+    "category" : "device",
+    "name" : "26",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.SUPPORTED_ABIS",
+    "category" : "device",
+    "name" : "[arm64-v8a, armeabi-v7a, armeabi]",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "isPrivilegedInstallerEnabled",
+    "category" : "device",
+    "name" : "true",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.VERSION.SDK_INT",
+    "category" : "device",
+    "name" : "26",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.SUPPORTED_ABIS",
+    "category" : "device",
+    "name" : "[arm64-v8a, armeabi-v7a, armeabi]",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "PackageInfo.lastUpdateTime",
+    "category" : "APK",
+    "name" : "com.android.vending",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 21
+  }, {
+    "action" : "PackageInfo.lastUpdateTime",
+    "category" : "APK",
+    "name" : "com.android.vending",
+    "period_end" : 1667433600,
+    "period_start" : 1666828800,
+    "times" : 27
+  }, {
+    "action" : "PackageInfo.firstInstall",
+    "category" : "APK",
+    "name" : "com.android.vending",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 3
+  }, {
+    "action" : "isPrivilegedInstallerEnabled",
+    "category" : "device",
+    "name" : "true",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.VERSION.SDK_INT",
+    "category" : "device",
+    "name" : "26",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.SUPPORTED_ABIS",
+    "category" : "device",
+    "name" : "[arm64-v8a, armeabi-v7a, armeabi]",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "isPrivilegedInstallerEnabled",
+    "category" : "device",
+    "name" : "true",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.VERSION.SDK_INT",
+    "category" : "device",
+    "name" : "26",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  }, {
+    "action" : "Build.SUPPORTED_ABIS",
+    "category" : "device",
+    "name" : "[arm64-v8a, armeabi-v7a, armeabi]",
+    "period_end" : 1666828800,
+    "period_start" : 1666224000,
+    "times" : 1
+  } ],
+  "idsite" : 3,
+  "lang" : "en",
+  "ua" : "F-Droid 1.14"
+} 
